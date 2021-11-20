@@ -1,5 +1,5 @@
 ### Όνομα: p20sami
-### Τίτλος: Διαφάνειες, βιντεοπαιχνίδια και συσκευές διάδρασης
+### Τίτλος: Η διάδραση στα βιντεοπαιχνίδια
 ### links εικόνας: https://upload.wikimedia.org/wikipedia/commons/b/b5/Kinect_Sensor_at_E3_2010_%28front%29.jpg, https://github.com/p20sami/images/blob/%CE%A02020023/xbox360kinect.jpg
 
 ### [Συναφείς διαφάνειες](https://github.com/pibook/site/blob/master/_slides/videogames.md)
