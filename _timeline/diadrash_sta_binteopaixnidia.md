@@ -1,8 +1,8 @@
 ---
 layout: timeline 
 title: Η διάδραση στα βιντεοπαιχνίδια 
-image_url: https://upload.wikimedia.org/wikipedia/commons/b/b5/Kinect_Sensor_at_E3_2010_%28front%29.jpg, https://github.com/p20sami/images/blob/%CE%A02020023/psmove.jpg
-caption: Αναμφίβολα τα βιντεοπαιχνίδια αποτελούν μέρος της παιδικής, εφηβικής και ενήλικης ζωής, ενώ η δίαδραση με τις κονσόλες έχει αλλάξει αισθητά ανα τα χρόνια, απο το χειρηστήριο στον έλεγχο με χειρονομίες.
+image_url: /images/psmove.jpg
+caption: Από το χειριστήριο, στις χειρονομίες, στην εικονική πραγματικότητα, η διάδραση με τις παιχνιδομηχανές και τα βιντεοπαιχνίδια έχει αισθητά διαφοροποιηθεί ανά τα χρόνια.
 events:
   - tennis-for-two 
   - spacewar-players
