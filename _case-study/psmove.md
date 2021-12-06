@@ -27,6 +27,6 @@ tags:
   - αισθητήρας-κίνησης
 ---
 
-{% include_relative cs-psmove.md %}
+{% include extras/cs-psmove.md %}
 
 {% include gallery %}
