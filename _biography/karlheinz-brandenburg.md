@@ -10,7 +10,7 @@ tags:
   - Μουσική 
 ---
 
-{% include_relative /biography/bio-brandenburg.md %}
+{% include extras/bio-brandenburg.md %}
 
 {% include gallery %}
 
