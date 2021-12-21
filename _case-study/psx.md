@@ -12,6 +12,6 @@ tags:
   - Πολυμέσα
 ---
 
-{% include_relative /case-study/cs-psx.md %}
+{% include extras/cs-psx.md %}
 
 {% include gallery %}
