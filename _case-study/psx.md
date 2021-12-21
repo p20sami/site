@@ -12,6 +12,5 @@ tags:
   - Πολυμέσα
 ---
 
-{% include extras/cs-psx.md %}
+{% include_relative cs-psx.md %}
 
-{% include gallery %}
