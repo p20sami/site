@@ -13,6 +13,6 @@ slides:
   - c64-demoscene
   - math-blaster
   - minecraft-end-user
-  - kinect
   - playstationmove
+  - kinect
 ---
