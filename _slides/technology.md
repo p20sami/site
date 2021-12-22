@@ -10,5 +10,6 @@ slides:
   - emulators 
   - android-emulator
   - smalltalk
+  - zune
 ---
 
